@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Theme css */
+
+.dark {
+  background-color: #000;
+  color: #fff;
+}
